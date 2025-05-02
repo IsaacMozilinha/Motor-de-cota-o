@@ -3,6 +3,8 @@ Motor de cotação para testes antes de subir para o repositório da FECAP
 
 **Para rodar:**
 
+Baixe o código da branch master;
+
 Baixe o PyCharm;
 
 Abra o código no PyCharm;
