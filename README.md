@@ -15,7 +15,7 @@ Rode o comando no terminal:
 pip install -r requirements.txt
 ```
 
-Após isso crie a pasta modelos dentro da pasta "app" e coloque os arquivos pkl nessa pasta
+Após isso crie a pasta "modelos" dentro da pasta "app" e coloque os arquivos pkl nessa pasta
 
 Para rodar a FastAPI rode no terminal:
 ```
